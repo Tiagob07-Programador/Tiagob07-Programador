@@ -3,7 +3,7 @@
 
 
 
-Me chamo Tiago Bezerra, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec. Sou apaixonado por tecnologia.
+Me chamo Tiago Bezerra, tenho 21 anos e sou natural de São Paulo mas moro em Sorocaba. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec. Sou apaixonado por tecnologia.
 
 
 <p align="left">
@@ -43,30 +43,8 @@ Me chamo Tiago Bezerra, tenho 20 anos e sou natural de São Paulo. Atualmente, e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+
+
 
 <img 
     align="left" 
@@ -76,15 +54,7 @@ Me chamo Tiago Bezerra, tenho 20 anos e sou natural de São Paulo. Atualmente, e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
+<img
     align="left" 
     alt="Git" 
     title="Git"
